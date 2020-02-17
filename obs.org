@@ -1,0 +1,43 @@
+#+Title: Screencast con OBS Studio
+#+Author: Pedro Prieto
+#+Email: pedpral@gmail.com
+#+REVEAL_ROOT: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/
+#+REVEAL_THEME: league
+#+REVEAL_HLEVEL: 1
+#+OPTIONS: toc:1 num:nil
+
+* Instalación
+* Descripción de interfaz
+* Opciones de configuración
+** Emisión (Youtube)
+** Grabación
+** Formatos de salida
+   - Audio
+   - Vídeo
+** Atajos de teclado
+   - Iniciar y detener grabación
+   - Pausa y reanudación (formatos soportados)
+* Escenas
+** Añadir escenas
+** Configurar atajos de teclado
+** Transiciones entre escenas
+* Fuentes
+** Añadir fuentes a escenas
+** Fuentes más útiles:
+   - Pantalla
+   - Ventana
+   - Captura de audio (micrófono)
+   - Salida de audio (aplicación, juego)
+   - Webcam
+   - Texto
+   - Imágenes
+   - Otras...
+** Configuración de fuentes
+   - Mostrar / ocultar
+   - Agrupar
+   - Ordenación (fondo, frente)
+   - Transformación (Rotar, mover,...)
+   - Ajustes (nivel de micrófono, tamaños de texto, origen de la imagen,...)
+   - Micrófono
+     - Filtros
+     - Ajustes de nivel
