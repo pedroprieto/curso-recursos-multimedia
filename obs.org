@@ -7,6 +7,7 @@
 #+OPTIONS: toc:1 num:nil
 
 * Instalación
+ https://obsproject.com/es/download
 * Descripción de interfaz
 * Opciones de configuración
 ** Emisión (Youtube)
