@@ -1,0 +1,7 @@
+* Uso de Scrum en la educación
+
+Disponible en https://pedroprieto.github.io/curso-recursos-multimedia
+
+** Sesiones
+ 1. [[https://youtu.be/-W0UPZCLZX8][Presentaciones con Prezi]]
+ 2. [[./test.org][Test]] 
